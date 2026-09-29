@@ -1,0 +1,9 @@
+{
+  "label": "v14",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Migration notes for upgrading to iDempiere 14 (unreleased, master).",
+    "slug": "/install/upgrade/migration-notes/v14"
+  }
+}

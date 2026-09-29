@@ -32,6 +32,13 @@ const config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     [
+      '@docusaurus/plugin-client-redirects',
+      {
+        // Old URLs from before the docs were reorganised by audience.
+        redirects: require('./redirects.json'),
+      },
+    ],
+    [
       '@docusaurus/plugin-pwa',
       {
         offlineModeActivationStrategies: [
@@ -102,21 +109,51 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'guideSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Guide',
           },
           {
-            to: '/upgrade/compare',
+            type: 'docSidebar',
+            sidebarId: 'installSidebar',
             position: 'left',
-            label: 'Compare versions',
+            label: 'Install & upgrade',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'developSidebar',
+            position: 'left',
+            label: 'Develop',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'integrateSidebar',
+            position: 'left',
+            label: 'Integrate',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'pluginsSidebar',
+            position: 'left',
+            label: 'Plugins',
+          },
+          {
+            type: 'dropdown',
+            label: 'Releases',
+            position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'releaseNotesSidebar',
+                label: 'Release notes',
+              },
+              {
+                to: '/upgrade/compare',
+                label: 'Compare versions',
+              },
+            ],
           },
           // Right
-          {
-            type: 'docsVersionDropdown',
-            position: 'right',
-            dropdownActiveClassDisabled: true,
-          },
           {
             href: 'https://github.com/idempiere/idempiere',
             label: 'GitHub',
@@ -131,16 +168,28 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Basic Installation Guide',
-                to: '/docs/introduction',
+                label: 'Guide',
+                to: '/docs/guide',
               },
               {
-                label: 'Basic Functional Guide',
-                to: '/docs/introduction',
+                label: 'Install & upgrade',
+                to: '/docs/install',
               },
               {
-                label: 'Basic Developer Guide',
-                to: '/docs/introduction',
+                label: 'Develop',
+                to: '/docs/develop',
+              },
+              {
+                label: 'Integrate',
+                to: '/docs/integrate',
+              },
+              {
+                label: 'Plugins',
+                to: '/docs/plugins',
+              },
+              {
+                label: 'Release notes',
+                to: '/docs/release-notes',
               },
             ],
           },

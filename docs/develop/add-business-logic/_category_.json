@@ -1,0 +1,9 @@
+{
+  "label": "Add business logic",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/develop/add-business-logic",
+    "description": "React to field changes and record events, run processes, and replace core services such as pricing, tax and document posting."
+  }
+}

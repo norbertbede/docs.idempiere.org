@@ -1,0 +1,9 @@
+{
+  "label": "v12",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Migration notes for upgrading to iDempiere 12.",
+    "slug": "/install/upgrade/migration-notes/v12"
+  }
+}

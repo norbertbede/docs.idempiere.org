@@ -1,8 +1,8 @@
 // Builds the data for the /upgrade/compare page from:
-// - docs/new-features/v*/ articles. The version comes from the folder name,
+// - docs/release-notes/v*/ articles. The version comes from the folder name,
 //   the categories from the article's `tags` front matter and the Jira keys
 //   from the "Feature Ticket" or "Technical Info" line.
-// - docs/migration-notes/v*/ pages, one note per "## " section
+// - docs/install/upgrade/migration-notes/v*/ pages, one note per "## " section
 //   (see migrationNotes.js).
 // - platform-requirements/<version>.yml for Java, ZK, Jetty and database
 //   versions (see requirements.js).
@@ -13,7 +13,7 @@ const yaml = require('js-yaml');
 const {loadMigrationNotes, NOTES_DIR} = require('./migrationNotes');
 const {loadRequirements, REQUIREMENTS_DIR} = require('./requirements');
 
-const FEATURES_DIR = 'docs/new-features';
+const FEATURES_DIR = 'docs/release-notes';
 const VERSION_DIR = /^v(\d+(?:\.\d+)*)$/;
 const JIRA_KEY = /\bIDEMPIERE-\d+\b/g;
 
@@ -132,7 +132,7 @@ function loadVersion(siteDir, dirName) {
           cleanDescription(frontMatter.description) || firstParagraph(body),
         categories: categoriesOf(tags, body),
         jira: jiraKeys(body),
-        permalink: `/docs/new-features/${dirName}/${slug}`,
+        permalink: `/docs/release-notes/${dirName}/${slug}`,
       };
     });
   return {version, changes};

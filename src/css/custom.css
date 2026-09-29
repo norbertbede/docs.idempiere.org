@@ -28,3 +28,29 @@
   --ifm-color-primary-lightest: #08acf7;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Keep the root section labels on one line in the navbar. */
+.navbar__item {
+  white-space: nowrap;
+}
+
+@media (min-width: 997px) and (max-width: 1300px) {
+  .navbar__item {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .navbar__search-input {
+    width: 9rem;
+  }
+}
+
+/* Keep the site name readable when the navbar is full. */
+.navbar__brand {
+  flex-shrink: 0;
+}
+
+/* Let long inline code, such as API paths, wrap inside table cells. */
+table code {
+  overflow-wrap: anywhere;
+}

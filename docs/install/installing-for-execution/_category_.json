@@ -1,0 +1,9 @@
+{
+  "label": "Installing for Execution",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Step-by-step guide for installing iDempiere for execution (running the application). This tutorial is brought to you by Carlos Ruiz from BX Service GmbH.",
+    "slug": "/install/installing-for-execution"
+  }
+}

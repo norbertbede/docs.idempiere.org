@@ -1,0 +1,9 @@
+{
+  "label": "Extend the data model",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/develop/extend-the-data-model",
+    "description": "Add tables, columns and windows in the Application Dictionary and give them model classes."
+  }
+}

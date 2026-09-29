@@ -1,0 +1,9 @@
+{
+  "label": "Package and ship",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/develop/package-and-ship",
+    "description": "Package Application Dictionary changes with 2Pack, build with Maven and distribute the plugin."
+  }
+}

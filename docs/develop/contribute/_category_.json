@@ -1,0 +1,9 @@
+{
+  "label": "Contribute to iDempiere",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "slug": "/develop/contribute",
+    "description": "For contributors: report bugs, suggest features, submit changes to iDempiere core and improve this documentation."
+  }
+}

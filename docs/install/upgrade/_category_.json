@@ -1,0 +1,9 @@
+{
+  "label": "Upgrade",
+  "position": 40,
+  "link": {
+    "type": "generated-index",
+    "slug": "/install/upgrade",
+    "description": "Plan and run an upgrade between iDempiere versions. Use the Compare versions page to list the changes and migration notes between two releases."
+  }
+}

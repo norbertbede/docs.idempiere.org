@@ -1,0 +1,20 @@
+---
+sidebar_position: 4
+title: "Create Record From Info Window"
+sidebar_label: "Create Record From Info Window"
+description: "**Contributor:** Nicolas Micoud"
+tags: [user-experience]
+---
+**Contributor:** Nicolas Micoud
+
+**Developer:** Le Quy Hiep
+
+**Reference:** [IDEMPIERE-1338](https://idempiere.atlassian.net/browse/IDEMPIERE-1338)
+
+**Description:**
+
+Now you can create a new record directly from Info Window like shown in the screenshot.
+
+The table must be configured to use [Quick Entry](/docs/release-notes/v1.0/quickentry)
+
+![01 CreateFromInfo](pathname:///img/new-features/v3.0/01_CreateFromInfo.png)

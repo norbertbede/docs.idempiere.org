@@ -1,4 +1,4 @@
-// Reads docs/migration-notes/v*/ pages. Every "## " section of a page is one
+// Reads docs/install/upgrade/migration-notes/v*/ pages. Every "## " section of a page is one
 // migration note. It links to the section anchor, so the page shows the
 // summary and the docs keep the full explanation. Page tags are not used:
 // they describe the whole page, not a single note.
@@ -8,7 +8,7 @@ const path = require('path');
 const yaml = require('js-yaml');
 const {createSlugger} = require('@docusaurus/utils');
 
-const NOTES_DIR = 'docs/migration-notes';
+const NOTES_DIR = 'docs/install/upgrade/migration-notes';
 const VERSION_DIR = /^v(\d+(?:\.\d+)*)$/;
 const JIRA_KEY = /\bIDEMPIERE-\d+\b/g;
 
@@ -100,7 +100,7 @@ function loadMigrationNotes(siteDir) {
       const frontMatter = frontMatterOf(source);
       const name = file.replace(/\.mdx?$/, '');
       const slug = frontMatter.id || name;
-      const permalink = `/docs/migration-notes/${dir.name}/${slug}`;
+      const permalink = `/docs/install/upgrade/migration-notes/${dir.name}/${slug}`;
       const kind = PAGE_KINDS[name] || {
         label: frontMatter.sidebar_label || name,
         audience: ['developer', 'consultant', 'admin'],

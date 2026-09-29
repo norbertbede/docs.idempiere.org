@@ -1,0 +1,2122 @@
+[
+ {
+  "from": "/docs/Widgets & Quick Info/how-to-cotribute",
+  "to": "/docs/develop/contribute/contributing-quick-info-2packs"
+ },
+ {
+  "from": "/docs/Widgets & Quick Info/quick-info-2packs",
+  "to": "/docs/plugins/quick-info-2packs"
+ },
+ {
+  "from": "/docs/available-plugins/field-event-rules",
+  "to": "/docs/plugins/field-event-rules"
+ },
+ {
+  "from": "/docs/basic-development/2pack/automatic-external-packin",
+  "to": "/docs/develop/package-and-ship/2pack/automatic-external-packin"
+ },
+ {
+  "from": "/docs/basic-development/2pack/packin-packout-guide",
+  "to": "/docs/develop/package-and-ship/2pack/packin-packout-guide"
+ },
+ {
+  "from": "/docs/basic-development/2pack/run-script-with-2pack",
+  "to": "/docs/develop/package-and-ship/2pack/run-script-with-2pack"
+ },
+ {
+  "from": "/docs/basic-development/2pack/what-is-2pack",
+  "to": "/docs/develop/package-and-ship/2pack/what-is-2pack"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/bug-reporting-guidelines",
+  "to": "/docs/develop/contribute/bug-reporting-guidelines"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/changing-the-database",
+  "to": "/docs/develop/contribute/changing-the-database"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/common-issues",
+  "to": "/docs/develop/contribute/common-issues"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/contributing-to-idempiere",
+  "to": "/docs/develop/contribute/contributing-to-idempiere"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/git-workflow",
+  "to": "/docs/develop/contribute/git-workflow"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/how-to-contribute",
+  "to": "/docs/develop/contribute/how-to-contribute"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/how-to-report-a-vulnerability",
+  "to": "/docs/develop/contribute/how-to-report-a-vulnerability"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/new-feature-suggestion-guidelines",
+  "to": "/docs/develop/contribute/new-feature-suggestion-guidelines"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/plugin-guidelines",
+  "to": "/docs/develop/contribute/plugin-guidelines"
+ },
+ {
+  "from": "/docs/basic-development/contributing-to-core/pull-request-review",
+  "to": "/docs/develop/contribute/pull-request-review"
+ },
+ {
+  "from": "/docs/basic-development/creating-windows",
+  "to": "/docs/develop/extend-the-data-model/creating-windows"
+ },
+ {
+  "from": "/docs/basic-development/introduction",
+  "to": "/docs/develop/introduction"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/annotations-instead-xml",
+  "to": "/docs/develop/create-a-plugin/annotations-instead-xml"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/developing-plugins",
+  "to": "/docs/develop/create-a-plugin/developing-plugins"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/distributing-plugins",
+  "to": "/docs/develop/package-and-ship/distributing-plugins"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/extension-registry-contributing",
+  "to": "/docs/develop/package-and-ship/extension-registry-contributing"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/extension-registry-local-testing",
+  "to": "/docs/develop/package-and-ship/extension-registry-local-testing"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/extension-registry-worked-example",
+  "to": "/docs/develop/package-and-ship/extension-registry-worked-example"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-about-window-tab",
+  "to": "/docs/develop/customize-the-ui/plugin-about-window-tab"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-callouts",
+  "to": "/docs/develop/add-business-logic/plugin-callouts"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-credit-manager-factory",
+  "to": "/docs/develop/add-business-logic/plugin-credit-manager-factory"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-dashboard-panels",
+  "to": "/docs/develop/customize-the-ui/plugin-dashboard-panels"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-development-background",
+  "to": "/docs/develop/create-a-plugin/plugin-development-background"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-doc-factory",
+  "to": "/docs/develop/add-business-logic/plugin-doc-factory"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-editor-factory",
+  "to": "/docs/develop/customize-the-ui/plugin-editor-factory"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-eventhandler",
+  "to": "/docs/develop/add-business-logic/plugin-eventhandler"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-forms",
+  "to": "/docs/develop/customize-the-ui/plugin-forms"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-maven-build",
+  "to": "/docs/develop/package-and-ship/plugin-maven-build"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-modelfactory",
+  "to": "/docs/develop/extend-the-data-model/plugin-modelfactory"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-modelvalidator",
+  "to": "/docs/develop/add-business-logic/plugin-modelvalidator"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-process",
+  "to": "/docs/develop/add-business-logic/plugin-process"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-product-pricing",
+  "to": "/docs/develop/add-business-logic/plugin-product-pricing"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-running-locally",
+  "to": "/docs/develop/create-a-plugin/plugin-running-locally"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-server-push",
+  "to": "/docs/develop/customize-the-ui/plugin-server-push"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-tax-provider-factory",
+  "to": "/docs/develop/add-business-logic/plugin-tax-provider-factory"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-user-panel-menu",
+  "to": "/docs/develop/customize-the-ui/plugin-user-panel-menu"
+ },
+ {
+  "from": "/docs/basic-development/plugin-development/plugin-webui-themes",
+  "to": "/docs/develop/customize-the-ui/plugin-webui-themes"
+ },
+ {
+  "from": "/docs/basic-functional/business_partner",
+  "to": "/docs/guide/business_partner"
+ },
+ {
+  "from": "/docs/basic-functional/introduction",
+  "to": "/docs/guide/overview"
+ },
+ {
+  "from": "/docs/basic-functional/login",
+  "to": "/docs/guide/login"
+ },
+ {
+  "from": "/docs/basic-functional/menue_overview",
+  "to": "/docs/guide/menue_overview"
+ },
+ {
+  "from": "/docs/basic-functional/vocabulary",
+  "to": "/docs/guide/vocabulary"
+ },
+ {
+  "from": "/docs/basic-functional/window_handling",
+  "to": "/docs/guide/window_handling"
+ },
+ {
+  "from": "/docs/basic-installation/docker",
+  "to": "/docs/install/docker"
+ },
+ {
+  "from": "/docs/basic-installation/idempiere-upgrade-guide",
+  "to": "/docs/install/upgrade/upgrade-guide"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/fast-linux-dev-setup",
+  "to": "/docs/develop/development-environment/fast-linux-dev-setup"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/applying-additional-migration-scripts",
+  "to": "/docs/develop/development-environment/manual-install/applying-additional-migration-scripts"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/building-idempiere-without-eclipse",
+  "to": "/docs/develop/development-environment/manual-install/building-idempiere-without-eclipse"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/configuring-idempiere-within-eclipse",
+  "to": "/docs/develop/development-environment/manual-install/configuring-idempiere-within-eclipse"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/download-the-code",
+  "to": "/docs/develop/development-environment/manual-install/download-the-code"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/importing-db-seed-manually",
+  "to": "/docs/develop/development-environment/manual-install/importing-db-seed-manually"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/install-development-prerequisites",
+  "to": "/docs/develop/development-environment/manual-install/install-development-prerequisites"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/running-idempiere-within-eclipse",
+  "to": "/docs/develop/development-environment/manual-install/running-idempiere-within-eclipse"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-development/manual-install/setting-up-eclipse",
+  "to": "/docs/develop/development-environment/manual-install/setting-up-eclipse"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-execution/downloading-installer",
+  "to": "/docs/install/installing-for-execution/downloading-installer"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-execution/install-prerequisites",
+  "to": "/docs/install/installing-for-execution/install-prerequisites"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-execution/installing-from-installers",
+  "to": "/docs/install/installing-for-execution/installing-from-installers"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-execution/post-installation",
+  "to": "/docs/install/installing-for-execution/post-installation"
+ },
+ {
+  "from": "/docs/basic-installation/installing-for-execution/running-idempiere-from-installers",
+  "to": "/docs/install/installing-for-execution/running-idempiere-from-installers"
+ },
+ {
+  "from": "/docs/basic-installation/introduction",
+  "to": "/docs/install/introduction"
+ },
+ {
+  "from": "/docs/category/available-plugins",
+  "to": "/docs/plugins"
+ },
+ {
+  "from": "/docs/category/basic-development",
+  "to": "/docs/develop"
+ },
+ {
+  "from": "/docs/category/basic-functional",
+  "to": "/docs/guide"
+ },
+ {
+  "from": "/docs/category/basic-installation",
+  "to": "/docs/install"
+ },
+ {
+  "from": "/docs/category/contributing-to-core",
+  "to": "/docs/develop/contribute"
+ },
+ {
+  "from": "/docs/category/developing-plug-ins",
+  "to": "/docs/develop"
+ },
+ {
+  "from": "/docs/category/in-development",
+  "to": "/docs/release-notes/in-development"
+ },
+ {
+  "from": "/docs/category/installing-for-development",
+  "to": "/docs/develop/development-environment"
+ },
+ {
+  "from": "/docs/category/installing-for-execution",
+  "to": "/docs/install/installing-for-execution"
+ },
+ {
+  "from": "/docs/category/legacy-adempiere-migration",
+  "to": "/docs/install/upgrade/migration-notes/legacy-adempiere"
+ },
+ {
+  "from": "/docs/category/manual-install",
+  "to": "/docs/develop/development-environment/manual-install"
+ },
+ {
+  "from": "/docs/category/migration-notes",
+  "to": "/docs/install/upgrade/migration-notes"
+ },
+ {
+  "from": "/docs/category/new-features",
+  "to": "/docs/release-notes"
+ },
+ {
+  "from": "/docs/category/v10",
+  "to": "/docs/release-notes/v10"
+ },
+ {
+  "from": "/docs/category/v10-1",
+  "to": "/docs/release-notes/v1.0"
+ },
+ {
+  "from": "/docs/category/v10-2",
+  "to": "/docs/install/upgrade/migration-notes/v10"
+ },
+ {
+  "from": "/docs/category/v10-3",
+  "to": "/docs/install/upgrade/migration-notes/v1.0"
+ },
+ {
+  "from": "/docs/category/v11",
+  "to": "/docs/release-notes/v11"
+ },
+ {
+  "from": "/docs/category/v11-1",
+  "to": "/docs/install/upgrade/migration-notes/v11"
+ },
+ {
+  "from": "/docs/category/v12",
+  "to": "/docs/release-notes/v12"
+ },
+ {
+  "from": "/docs/category/v12-1",
+  "to": "/docs/install/upgrade/migration-notes/v12"
+ },
+ {
+  "from": "/docs/category/v13",
+  "to": "/docs/release-notes/v13"
+ },
+ {
+  "from": "/docs/category/v13-1",
+  "to": "/docs/install/upgrade/migration-notes/v13"
+ },
+ {
+  "from": "/docs/category/v14",
+  "to": "/docs/release-notes/v14"
+ },
+ {
+  "from": "/docs/category/v14-1",
+  "to": "/docs/install/upgrade/migration-notes/v14"
+ },
+ {
+  "from": "/docs/category/v20",
+  "to": "/docs/release-notes/v2.0"
+ },
+ {
+  "from": "/docs/category/v21",
+  "to": "/docs/release-notes/v2.1"
+ },
+ {
+  "from": "/docs/category/v30",
+  "to": "/docs/release-notes/v3.0"
+ },
+ {
+  "from": "/docs/category/v31",
+  "to": "/docs/install/upgrade/migration-notes/v3.1"
+ },
+ {
+  "from": "/docs/category/v41",
+  "to": "/docs/release-notes/v4.1"
+ },
+ {
+  "from": "/docs/category/v51",
+  "to": "/docs/release-notes/v5.1"
+ },
+ {
+  "from": "/docs/category/v62",
+  "to": "/docs/release-notes/v6.2"
+ },
+ {
+  "from": "/docs/category/v71",
+  "to": "/docs/release-notes/v7.1"
+ },
+ {
+  "from": "/docs/category/v71-1",
+  "to": "/docs/install/upgrade/migration-notes/v7.1"
+ },
+ {
+  "from": "/docs/category/v82",
+  "to": "/docs/release-notes/v8.2"
+ },
+ {
+  "from": "/docs/category/v82-1",
+  "to": "/docs/install/upgrade/migration-notes/v8.2"
+ },
+ {
+  "from": "/docs/category/v9",
+  "to": "/docs/release-notes/v9"
+ },
+ {
+  "from": "/docs/category/v9-1",
+  "to": "/docs/install/upgrade/migration-notes/v9"
+ },
+ {
+  "from": "/docs/category/widgets--quick-info",
+  "to": "/docs/guide"
+ },
+ {
+  "from": "/docs/documentation-standards",
+  "to": "/docs/develop/contribute/documentation-standards"
+ },
+ {
+  "from": "/docs/getting-started",
+  "to": "/docs/guide/getting-started"
+ },
+ {
+  "from": "/docs/introduction",
+  "to": "/docs/guide/introduction"
+ },
+ {
+  "from": "/docs/migration-notes/legacy-adempiere/migration-scripts",
+  "to": "/docs/install/upgrade/migration-notes/legacy-adempiere/migration-scripts"
+ },
+ {
+  "from": "/docs/migration-notes/v1.0/functional-notes",
+  "to": "/docs/install/upgrade/migration-notes/v1.0/functional-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v1.0/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v1.0/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v10/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v10/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v11/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v11/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v12/functional-notes",
+  "to": "/docs/install/upgrade/migration-notes/v12/functional-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v12/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v12/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v13/functional-notes",
+  "to": "/docs/install/upgrade/migration-notes/v13/functional-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v13/removed-deprecated-apis",
+  "to": "/docs/install/upgrade/migration-notes/v13/removed-deprecated-apis"
+ },
+ {
+  "from": "/docs/migration-notes/v13/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v13/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v14/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v14/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v3.1/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v3.1/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v7.1/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v7.1/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v8.2/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v8.2/technical-notes"
+ },
+ {
+  "from": "/docs/migration-notes/v9/technical-notes",
+  "to": "/docs/install/upgrade/migration-notes/v9/technical-notes"
+ },
+ {
+  "from": "/docs/new-features/in-development/Report-Source-for-Report-Column",
+  "to": "/docs/release-notes/in-development/Report-Source-for-Report-Column"
+ },
+ {
+  "from": "/docs/new-features/in-development/avoid-sequence-locks",
+  "to": "/docs/release-notes/in-development/avoid-sequence-locks"
+ },
+ {
+  "from": "/docs/new-features/in-development/user-task-workflow-node",
+  "to": "/docs/release-notes/in-development/user-task-workflow-node"
+ },
+ {
+  "from": "/docs/new-features/v1.0/2pack-revamped",
+  "to": "/docs/release-notes/v1.0/2pack-revamped"
+ },
+ {
+  "from": "/docs/new-features/v1.0/accounting-viewer-improvements",
+  "to": "/docs/release-notes/v1.0/accounting-viewer-improvements"
+ },
+ {
+  "from": "/docs/new-features/v1.0/activesessionlist",
+  "to": "/docs/release-notes/v1.0/activesessionlist"
+ },
+ {
+  "from": "/docs/new-features/v1.0/allocate-payment-to-charge",
+  "to": "/docs/release-notes/v1.0/allocate-payment-to-charge"
+ },
+ {
+  "from": "/docs/new-features/v1.0/automatic-list-refresh",
+  "to": "/docs/release-notes/v1.0/automatic-list-refresh"
+ },
+ {
+  "from": "/docs/new-features/v1.0/base-language-flexible",
+  "to": "/docs/release-notes/v1.0/base-language-flexible"
+ },
+ {
+  "from": "/docs/new-features/v1.0/broadcastmessage",
+  "to": "/docs/release-notes/v1.0/broadcastmessage"
+ },
+ {
+  "from": "/docs/new-features/v1.0/change-role",
+  "to": "/docs/release-notes/v1.0/change-role"
+ },
+ {
+  "from": "/docs/new-features/v1.0/code-best-practices",
+  "to": "/docs/release-notes/v1.0/code-best-practices"
+ },
+ {
+  "from": "/docs/new-features/v1.0/columntoolbarbutton",
+  "to": "/docs/release-notes/v1.0/columntoolbarbutton"
+ },
+ {
+  "from": "/docs/new-features/v1.0/configurable-copy-fields",
+  "to": "/docs/release-notes/v1.0/configurable-copy-fields"
+ },
+ {
+  "from": "/docs/new-features/v1.0/confirmdocvoidclose",
+  "to": "/docs/release-notes/v1.0/confirmdocvoidclose"
+ },
+ {
+  "from": "/docs/new-features/v1.0/context-help-pane",
+  "to": "/docs/release-notes/v1.0/context-help-pane"
+ },
+ {
+  "from": "/docs/new-features/v1.0/copy-from-bank-statement",
+  "to": "/docs/release-notes/v1.0/copy-from-bank-statement"
+ },
+ {
+  "from": "/docs/new-features/v1.0/cost-adjustment",
+  "to": "/docs/release-notes/v1.0/cost-adjustment"
+ },
+ {
+  "from": "/docs/new-features/v1.0/customwindowtoolbarbutton",
+  "to": "/docs/release-notes/v1.0/customwindowtoolbarbutton"
+ },
+ {
+  "from": "/docs/new-features/v1.0/distributed-cache",
+  "to": "/docs/release-notes/v1.0/distributed-cache"
+ },
+ {
+  "from": "/docs/new-features/v1.0/document-sequence-improved",
+  "to": "/docs/release-notes/v1.0/document-sequence-improved"
+ },
+ {
+  "from": "/docs/new-features/v1.0/dynamic-zoom",
+  "to": "/docs/release-notes/v1.0/dynamic-zoom"
+ },
+ {
+  "from": "/docs/new-features/v1.0/financialreport-enhancement",
+  "to": "/docs/release-notes/v1.0/financialreport-enhancement"
+ },
+ {
+  "from": "/docs/new-features/v1.0/find-window",
+  "to": "/docs/release-notes/v1.0/find-window"
+ },
+ {
+  "from": "/docs/new-features/v1.0/fitnesse-integration",
+  "to": "/docs/release-notes/v1.0/fitnesse-integration"
+ },
+ {
+  "from": "/docs/new-features/v1.0/fixed-assets",
+  "to": "/docs/release-notes/v1.0/fixed-assets"
+ },
+ {
+  "from": "/docs/new-features/v1.0/forgot-my-password",
+  "to": "/docs/release-notes/v1.0/forgot-my-password"
+ },
+ {
+  "from": "/docs/new-features/v1.0/formlayout",
+  "to": "/docs/release-notes/v1.0/formlayout"
+ },
+ {
+  "from": "/docs/new-features/v1.0/frequent-lists",
+  "to": "/docs/release-notes/v1.0/frequent-lists"
+ },
+ {
+  "from": "/docs/new-features/v1.0/gl-reconciliation",
+  "to": "/docs/release-notes/v1.0/gl-reconciliation"
+ },
+ {
+  "from": "/docs/new-features/v1.0/gljournal",
+  "to": "/docs/release-notes/v1.0/gljournal"
+ },
+ {
+  "from": "/docs/new-features/v1.0/gljournalgenerator",
+  "to": "/docs/release-notes/v1.0/gljournalgenerator"
+ },
+ {
+  "from": "/docs/new-features/v1.0/hashedpasswords",
+  "to": "/docs/release-notes/v1.0/hashedpasswords"
+ },
+ {
+  "from": "/docs/new-features/v1.0/idempiere-workshop-2014",
+  "to": "/docs/release-notes/v1.0/idempiere-workshop-2014"
+ },
+ {
+  "from": "/docs/new-features/v1.0/importcsv",
+  "to": "/docs/release-notes/v1.0/importcsv"
+ },
+ {
+  "from": "/docs/new-features/v1.0/info-window",
+  "to": "/docs/release-notes/v1.0/info-window"
+ },
+ {
+  "from": "/docs/new-features/v1.0/infoproduct",
+  "to": "/docs/release-notes/v1.0/infoproduct"
+ },
+ {
+  "from": "/docs/new-features/v1.0/inventory-documents",
+  "to": "/docs/release-notes/v1.0/inventory-documents"
+ },
+ {
+  "from": "/docs/new-features/v1.0/link-end-process-with-next-record",
+  "to": "/docs/release-notes/v1.0/link-end-process-with-next-record"
+ },
+ {
+  "from": "/docs/new-features/v1.0/login",
+  "to": "/docs/release-notes/v1.0/login"
+ },
+ {
+  "from": "/docs/new-features/v1.0/manufacturing-light",
+  "to": "/docs/release-notes/v1.0/manufacturing-light"
+ },
+ {
+  "from": "/docs/new-features/v1.0/map-route-on-locations",
+  "to": "/docs/release-notes/v1.0/map-route-on-locations"
+ },
+ {
+  "from": "/docs/new-features/v1.0/menu",
+  "to": "/docs/release-notes/v1.0/menu"
+ },
+ {
+  "from": "/docs/new-features/v1.0/mixedpospayments",
+  "to": "/docs/release-notes/v1.0/mixedpospayments"
+ },
+ {
+  "from": "/docs/new-features/v1.0/newmasterdetail",
+  "to": "/docs/release-notes/v1.0/newmasterdetail"
+ },
+ {
+  "from": "/docs/new-features/v1.0/passwordrules",
+  "to": "/docs/release-notes/v1.0/passwordrules"
+ },
+ {
+  "from": "/docs/new-features/v1.0/payment-batch",
+  "to": "/docs/release-notes/v1.0/payment-batch"
+ },
+ {
+  "from": "/docs/new-features/v1.0/paymentfield",
+  "to": "/docs/release-notes/v1.0/paymentfield"
+ },
+ {
+  "from": "/docs/new-features/v1.0/quickentry",
+  "to": "/docs/release-notes/v1.0/quickentry"
+ },
+ {
+  "from": "/docs/new-features/v1.0/recent-items",
+  "to": "/docs/release-notes/v1.0/recent-items"
+ },
+ {
+  "from": "/docs/new-features/v1.0/reportbutton",
+  "to": "/docs/release-notes/v1.0/reportbutton"
+ },
+ {
+  "from": "/docs/new-features/v1.0/reportwizard",
+  "to": "/docs/release-notes/v1.0/reportwizard"
+ },
+ {
+  "from": "/docs/new-features/v1.0/request-calendar-dashboard",
+  "to": "/docs/release-notes/v1.0/request-calendar-dashboard"
+ },
+ {
+  "from": "/docs/new-features/v1.0/restricttoolbarbuttons",
+  "to": "/docs/release-notes/v1.0/restricttoolbarbuttons"
+ },
+ {
+  "from": "/docs/new-features/v1.0/reverseaccrual",
+  "to": "/docs/release-notes/v1.0/reverseaccrual"
+ },
+ {
+  "from": "/docs/new-features/v1.0/role-access-update-improved",
+  "to": "/docs/release-notes/v1.0/role-access-update-improved"
+ },
+ {
+  "from": "/docs/new-features/v1.0/role-inheritance",
+  "to": "/docs/release-notes/v1.0/role-inheritance"
+ },
+ {
+  "from": "/docs/new-features/v1.0/safelogout",
+  "to": "/docs/release-notes/v1.0/safelogout"
+ },
+ {
+  "from": "/docs/new-features/v1.0/savegridlayout",
+  "to": "/docs/release-notes/v1.0/savegridlayout"
+ },
+ {
+  "from": "/docs/new-features/v1.0/scheduler-improvements",
+  "to": "/docs/release-notes/v1.0/scheduler-improvements"
+ },
+ {
+  "from": "/docs/new-features/v1.0/setupwizard",
+  "to": "/docs/release-notes/v1.0/setupwizard"
+ },
+ {
+  "from": "/docs/new-features/v1.0/standardize-ok-cancel-buttons",
+  "to": "/docs/release-notes/v1.0/standardize-ok-cancel-buttons"
+ },
+ {
+  "from": "/docs/new-features/v1.0/storage-improvements",
+  "to": "/docs/release-notes/v1.0/storage-improvements"
+ },
+ {
+  "from": "/docs/new-features/v1.0/storage-providers",
+  "to": "/docs/release-notes/v1.0/storage-providers"
+ },
+ {
+  "from": "/docs/new-features/v1.0/tabeditor",
+  "to": "/docs/release-notes/v1.0/tabeditor"
+ },
+ {
+  "from": "/docs/new-features/v1.0/translation-improvements",
+  "to": "/docs/release-notes/v1.0/translation-improvements"
+ },
+ {
+  "from": "/docs/new-features/v1.0/user-locking",
+  "to": "/docs/release-notes/v1.0/user-locking"
+ },
+ {
+  "from": "/docs/new-features/v1.0/userfeedback",
+  "to": "/docs/release-notes/v1.0/userfeedback"
+ },
+ {
+  "from": "/docs/new-features/v1.0/web-services-improvements",
+  "to": "/docs/release-notes/v1.0/web-services-improvements"
+ },
+ {
+  "from": "/docs/new-features/v1.0/welcome",
+  "to": "/docs/release-notes/v1.0/welcome"
+ },
+ {
+  "from": "/docs/new-features/v1.0/windowcustomization",
+  "to": "/docs/release-notes/v1.0/windowcustomization"
+ },
+ {
+  "from": "/docs/new-features/v1.0/windowtabtoolbarbutton",
+  "to": "/docs/release-notes/v1.0/windowtabtoolbarbutton"
+ },
+ {
+  "from": "/docs/new-features/v10/add-always-updatable-logic-override-flag",
+  "to": "/docs/release-notes/v10/add-always-updatable-logic-override-flag"
+ },
+ {
+  "from": "/docs/new-features/v10/add-context-variables-in-log-entries",
+  "to": "/docs/release-notes/v10/add-context-variables-in-log-entries"
+ },
+ {
+  "from": "/docs/new-features/v10/add-customer-account-freightcostrule",
+  "to": "/docs/release-notes/v10/add-customer-account-freightcostrule"
+ },
+ {
+  "from": "/docs/new-features/v10/add-fixed-price-discount-support-to-discount-schema",
+  "to": "/docs/release-notes/v10/add-fixed-price-discount-support-to-discount-schema"
+ },
+ {
+  "from": "/docs/new-features/v10/add-user-session-process-instance",
+  "to": "/docs/release-notes/v10/add-user-session-process-instance"
+ },
+ {
+  "from": "/docs/new-features/v10/after-migrate-helper",
+  "to": "/docs/release-notes/v10/after-migrate-helper"
+ },
+ {
+  "from": "/docs/new-features/v10/ask-for-secret-input-within-process",
+  "to": "/docs/release-notes/v10/ask-for-secret-input-within-process"
+ },
+ {
+  "from": "/docs/new-features/v10/attach-files-using-drag-and-drop",
+  "to": "/docs/release-notes/v10/attach-files-using-drag-and-drop"
+ },
+ {
+  "from": "/docs/new-features/v10/auto-save-current-tab-changes",
+  "to": "/docs/release-notes/v10/auto-save-current-tab-changes"
+ },
+ {
+  "from": "/docs/new-features/v10/bankcash-transfer-document",
+  "to": "/docs/release-notes/v10/bankcash-transfer-document"
+ },
+ {
+  "from": "/docs/new-features/v10/base-price-list",
+  "to": "/docs/release-notes/v10/base-price-list"
+ },
+ {
+  "from": "/docs/new-features/v10/configurable-cache-size-per-table",
+  "to": "/docs/release-notes/v10/configurable-cache-size-per-table"
+ },
+ {
+  "from": "/docs/new-features/v10/consider-prepared-shipments-as-no-longer-available",
+  "to": "/docs/release-notes/v10/consider-prepared-shipments-as-no-longer-available"
+ },
+ {
+  "from": "/docs/new-features/v10/copy-print-format-with-dialog",
+  "to": "/docs/release-notes/v10/copy-print-format-with-dialog"
+ },
+ {
+  "from": "/docs/new-features/v10/dashboard-content-goal-indicator",
+  "to": "/docs/release-notes/v10/dashboard-content-goal-indicator"
+ },
+ {
+  "from": "/docs/new-features/v10/dashboard-row-orientation",
+  "to": "/docs/release-notes/v10/dashboard-row-orientation"
+ },
+ {
+  "from": "/docs/new-features/v10/date-range-component",
+  "to": "/docs/release-notes/v10/date-range-component"
+ },
+ {
+  "from": "/docs/new-features/v10/deductible-and-non-deductible-input-tax",
+  "to": "/docs/release-notes/v10/deductible-and-non-deductible-input-tax"
+ },
+ {
+  "from": "/docs/new-features/v10/define-db-views-with-distinct",
+  "to": "/docs/release-notes/v10/define-db-views-with-distinct"
+ },
+ {
+  "from": "/docs/new-features/v10/delete-record-with-confirmation-logic",
+  "to": "/docs/release-notes/v10/delete-record-with-confirmation-logic"
+ },
+ {
+  "from": "/docs/new-features/v10/document-type-for-production-and-bank-statement",
+  "to": "/docs/release-notes/v10/document-type-for-production-and-bank-statement"
+ },
+ {
+  "from": "/docs/new-features/v10/drill-assistant-enhancements",
+  "to": "/docs/release-notes/v10/drill-assistant-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v10/flat-view-menu-tree-enhancements",
+  "to": "/docs/release-notes/v10/flat-view-menu-tree-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v10/hikaricp-connection-pool",
+  "to": "/docs/release-notes/v10/hikaricp-connection-pool"
+ },
+ {
+  "from": "/docs/new-features/v10/info-window-generate-invoice-manual",
+  "to": "/docs/release-notes/v10/info-window-generate-invoice-manual"
+ },
+ {
+  "from": "/docs/new-features/v10/info-window-generate-shipment-manual",
+  "to": "/docs/release-notes/v10/info-window-generate-shipment-manual"
+ },
+ {
+  "from": "/docs/new-features/v10/label-feature",
+  "to": "/docs/release-notes/v10/label-feature"
+ },
+ {
+  "from": "/docs/new-features/v10/make-print-filename-configurable",
+  "to": "/docs/release-notes/v10/make-print-filename-configurable"
+ },
+ {
+  "from": "/docs/new-features/v10/multi-warehouse-inventory-valuation-report",
+  "to": "/docs/release-notes/v10/multi-warehouse-inventory-valuation-report"
+ },
+ {
+  "from": "/docs/new-features/v10/negate-option-for-chosen-multiple-component-parameter",
+  "to": "/docs/release-notes/v10/negate-option-for-chosen-multiple-component-parameter"
+ },
+ {
+  "from": "/docs/new-features/v10/order-and-invoice-tax-lookup-interface",
+  "to": "/docs/release-notes/v10/order-and-invoice-tax-lookup-interface"
+ },
+ {
+  "from": "/docs/new-features/v10/print-support-process-info-dialog",
+  "to": "/docs/release-notes/v10/print-support-process-info-dialog"
+ },
+ {
+  "from": "/docs/new-features/v10/record-id-editor",
+  "to": "/docs/release-notes/v10/record-id-editor"
+ },
+ {
+  "from": "/docs/new-features/v10/status-line-as-dashboard-widget",
+  "to": "/docs/release-notes/v10/status-line-as-dashboard-widget"
+ },
+ {
+  "from": "/docs/new-features/v10/styles-on-html-report-columns",
+  "to": "/docs/release-notes/v10/styles-on-html-report-columns"
+ },
+ {
+  "from": "/docs/new-features/v10/support-readonly-logic-set-pressed-logic-custom-toolbar-button",
+  "to": "/docs/release-notes/v10/support-readonly-logic-set-pressed-logic-custom-toolbar-button"
+ },
+ {
+  "from": "/docs/new-features/v10/synchronize-print-format-items",
+  "to": "/docs/release-notes/v10/synchronize-print-format-items"
+ },
+ {
+  "from": "/docs/new-features/v10/tabular-report-re-run-enhancements",
+  "to": "/docs/release-notes/v10/tabular-report-re-run-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v10/tenant-time-zone-for-cron-scheduler",
+  "to": "/docs/release-notes/v10/tenant-time-zone-for-cron-scheduler"
+ },
+ {
+  "from": "/docs/new-features/v10/wizard-for-chosen-multiple-selection-list-editor",
+  "to": "/docs/release-notes/v10/wizard-for-chosen-multiple-selection-list-editor"
+ },
+ {
+  "from": "/docs/new-features/v10/workflow-email-notification-enhancements",
+  "to": "/docs/release-notes/v10/workflow-email-notification-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v11/add-java-options-field-to-setup",
+  "to": "/docs/release-notes/v11/add-java-options-field-to-setup"
+ },
+ {
+  "from": "/docs/new-features/v11/allow-to-specify-print-format-for-dashboard-content-report",
+  "to": "/docs/release-notes/v11/allow-to-specify-print-format-for-dashboard-content-report"
+ },
+ {
+  "from": "/docs/new-features/v11/constraint-type-for-recordid-and-uu",
+  "to": "/docs/release-notes/v11/constraint-type-for-recordid-and-uu"
+ },
+ {
+  "from": "/docs/new-features/v11/credit-management-as-factory",
+  "to": "/docs/release-notes/v11/credit-management-as-factory"
+ },
+ {
+  "from": "/docs/new-features/v11/delete-trace-logs",
+  "to": "/docs/release-notes/v11/delete-trace-logs"
+ },
+ {
+  "from": "/docs/new-features/v11/disable-osgi-event-handler",
+  "to": "/docs/release-notes/v11/disable-osgi-event-handler"
+ },
+ {
+  "from": "/docs/new-features/v11/document-base-type-group",
+  "to": "/docs/release-notes/v11/document-base-type-group"
+ },
+ {
+  "from": "/docs/new-features/v11/dynamic-validation-per-table",
+  "to": "/docs/release-notes/v11/dynamic-validation-per-table"
+ },
+ {
+  "from": "/docs/new-features/v11/enable-showing-inactive-records-through-reference",
+  "to": "/docs/release-notes/v11/enable-showing-inactive-records-through-reference"
+ },
+ {
+  "from": "/docs/new-features/v11/export-sql-insert-scripts",
+  "to": "/docs/release-notes/v11/export-sql-insert-scripts"
+ },
+ {
+  "from": "/docs/new-features/v11/generate-model-template",
+  "to": "/docs/release-notes/v11/generate-model-template"
+ },
+ {
+  "from": "/docs/new-features/v11/improve-process-log-for-more-advanced-logging-options",
+  "to": "/docs/release-notes/v11/improve-process-log-for-more-advanced-logging-options"
+ },
+ {
+  "from": "/docs/new-features/v11/inject-context-variables-from-role",
+  "to": "/docs/release-notes/v11/inject-context-variables-from-role"
+ },
+ {
+  "from": "/docs/new-features/v11/json-field-type",
+  "to": "/docs/release-notes/v11/json-field-type"
+ },
+ {
+  "from": "/docs/new-features/v11/min-max-validation-process-parameters",
+  "to": "/docs/release-notes/v11/min-max-validation-process-parameters"
+ },
+ {
+  "from": "/docs/new-features/v11/monitor-null-trx",
+  "to": "/docs/release-notes/v11/monitor-null-trx"
+ },
+ {
+  "from": "/docs/new-features/v11/more-formats-for-import-csv",
+  "to": "/docs/release-notes/v11/more-formats-for-import-csv"
+ },
+ {
+  "from": "/docs/new-features/v11/oomph-import-projects",
+  "to": "/docs/release-notes/v11/oomph-import-projects"
+ },
+ {
+  "from": "/docs/new-features/v11/period-close-disallow-when-unposted-documents-exists",
+  "to": "/docs/release-notes/v11/period-close-disallow-when-unposted-documents-exists"
+ },
+ {
+  "from": "/docs/new-features/v11/period-control-document-close",
+  "to": "/docs/release-notes/v11/period-control-document-close"
+ },
+ {
+  "from": "/docs/new-features/v11/private-access-window",
+  "to": "/docs/release-notes/v11/private-access-window"
+ },
+ {
+  "from": "/docs/new-features/v11/read-only-session",
+  "to": "/docs/release-notes/v11/read-only-session"
+ },
+ {
+  "from": "/docs/new-features/v11/refactor-escaltx-shortcut-for-closing-tabs",
+  "to": "/docs/release-notes/v11/refactor-escaltx-shortcut-for-closing-tabs"
+ },
+ {
+  "from": "/docs/new-features/v11/single-sign-on",
+  "to": "/docs/release-notes/v11/single-sign-on"
+ },
+ {
+  "from": "/docs/new-features/v11/stocked-expense-type-product",
+  "to": "/docs/release-notes/v11/stocked-expense-type-product"
+ },
+ {
+  "from": "/docs/new-features/v11/support-for-pure-uuid-key-tables",
+  "to": "/docs/release-notes/v11/support-for-pure-uuid-key-tables"
+ },
+ {
+  "from": "/docs/new-features/v11/support-quick-info-widget-for-info-windows",
+  "to": "/docs/release-notes/v11/support-quick-info-widget-for-info-windows"
+ },
+ {
+  "from": "/docs/new-features/v11/system-property-to-avoid-cutting-log",
+  "to": "/docs/release-notes/v11/system-property-to-avoid-cutting-log"
+ },
+ {
+  "from": "/docs/new-features/v11/table-partitioning-support",
+  "to": "/docs/release-notes/v11/table-partitioning-support"
+ },
+ {
+  "from": "/docs/new-features/v11/tax-rate-tab-in-tax-category",
+  "to": "/docs/release-notes/v11/tax-rate-tab-in-tax-category"
+ },
+ {
+  "from": "/docs/new-features/v11/timezone-by-organization",
+  "to": "/docs/release-notes/v11/timezone-by-organization"
+ },
+ {
+  "from": "/docs/new-features/v11/tuning-windows-performance",
+  "to": "/docs/release-notes/v11/tuning-windows-performance"
+ },
+ {
+  "from": "/docs/new-features/v11/un-cefact-code-in-uom",
+  "to": "/docs/release-notes/v11/un-cefact-code-in-uom"
+ },
+ {
+  "from": "/docs/new-features/v11/vformat-regex",
+  "to": "/docs/release-notes/v11/vformat-regex"
+ },
+ {
+  "from": "/docs/new-features/v12/add-option-to-disable-insufficient-inventory-popup",
+  "to": "/docs/release-notes/v12/add-option-to-disable-insufficient-inventory-popup"
+ },
+ {
+  "from": "/docs/new-features/v12/all-quantities-in-storage-per-product",
+  "to": "/docs/release-notes/v12/all-quantities-in-storage-per-product"
+ },
+ {
+  "from": "/docs/new-features/v12/context-variable-html-report-theme",
+  "to": "/docs/release-notes/v12/context-variable-html-report-theme"
+ },
+ {
+  "from": "/docs/new-features/v12/copy-or-move-tenant",
+  "to": "/docs/release-notes/v12/copy-or-move-tenant"
+ },
+ {
+  "from": "/docs/new-features/v12/define-html-field-at-field-level",
+  "to": "/docs/release-notes/v12/define-html-field-at-field-level"
+ },
+ {
+  "from": "/docs/new-features/v12/development-with-intellij",
+  "to": "/docs/release-notes/v12/development-with-intellij"
+ },
+ {
+  "from": "/docs/new-features/v12/document-search-customisable-layout",
+  "to": "/docs/release-notes/v12/document-search-customisable-layout"
+ },
+ {
+  "from": "/docs/new-features/v12/email-template-markdown-text",
+  "to": "/docs/release-notes/v12/email-template-markdown-text"
+ },
+ {
+  "from": "/docs/new-features/v12/enhance-print-invoices-process-to-support-multi-select-document-type-parameter",
+  "to": "/docs/release-notes/v12/enhance-print-invoices-process-to-support-multi-select-document-type-parameter"
+ },
+ {
+  "from": "/docs/new-features/v12/exclude-freight-charges-from-payment-discount",
+  "to": "/docs/release-notes/v12/exclude-freight-charges-from-payment-discount"
+ },
+ {
+  "from": "/docs/new-features/v12/export-tree-definition",
+  "to": "/docs/release-notes/v12/export-tree-definition"
+ },
+ {
+  "from": "/docs/new-features/v12/feature-fast-entity-type-identification",
+  "to": "/docs/release-notes/v12/feature-fast-entity-type-identification"
+ },
+ {
+  "from": "/docs/new-features/v12/get-image-through-url-from-attachment",
+  "to": "/docs/release-notes/v12/get-image-through-url-from-attachment"
+ },
+ {
+  "from": "/docs/new-features/v12/imageurl-fieldtype",
+  "to": "/docs/release-notes/v12/imageurl-fieldtype"
+ },
+ {
+  "from": "/docs/new-features/v12/implement-escape-sequence-for-text-with-context-variable",
+  "to": "/docs/release-notes/v12/implement-escape-sequence-for-text-with-context-variable"
+ },
+ {
+  "from": "/docs/new-features/v12/improve-password-hashing",
+  "to": "/docs/release-notes/v12/improve-password-hashing"
+ },
+ {
+  "from": "/docs/new-features/v12/iprocessparameterlistener-add-oninit-method",
+  "to": "/docs/release-notes/v12/iprocessparameterlistener-add-oninit-method"
+ },
+ {
+  "from": "/docs/new-features/v12/multiple-payments-against-statement-line-by-payment-batch",
+  "to": "/docs/release-notes/v12/multiple-payments-against-statement-line-by-payment-batch"
+ },
+ {
+  "from": "/docs/new-features/v12/multiple-sso-provider-support",
+  "to": "/docs/release-notes/v12/multiple-sso-provider-support"
+ },
+ {
+  "from": "/docs/new-features/v12/new-fields-in-country",
+  "to": "/docs/release-notes/v12/new-fields-in-country"
+ },
+ {
+  "from": "/docs/new-features/v12/prepay-order-configurable-shipment-and-invoicing",
+  "to": "/docs/release-notes/v12/prepay-order-configurable-shipment-and-invoicing"
+ },
+ {
+  "from": "/docs/new-features/v12/reactivation-of-invoices",
+  "to": "/docs/release-notes/v12/reactivation-of-invoices"
+ },
+ {
+  "from": "/docs/new-features/v12/status-line-widget-markdown-and-scoped-style",
+  "to": "/docs/release-notes/v12/status-line-widget-markdown-and-scoped-style"
+ },
+ {
+  "from": "/docs/new-features/v12/support-for-alternate-db-admin-user",
+  "to": "/docs/release-notes/v12/support-for-alternate-db-admin-user"
+ },
+ {
+  "from": "/docs/new-features/v12/support-uom-on-inventory-move",
+  "to": "/docs/release-notes/v12/support-uom-on-inventory-move"
+ },
+ {
+  "from": "/docs/new-features/v12/theme-customization",
+  "to": "/docs/release-notes/v12/theme-customization"
+ },
+ {
+  "from": "/docs/new-features/v12/unallocated-cash-and-payment-selection-configurable-business-partner",
+  "to": "/docs/release-notes/v12/unallocated-cash-and-payment-selection-configurable-business-partner"
+ },
+ {
+  "from": "/docs/new-features/v12/use-system-configurator-from-css-files",
+  "to": "/docs/release-notes/v12/use-system-configurator-from-css-files"
+ },
+ {
+  "from": "/docs/new-features/v12/validate-required-plugins",
+  "to": "/docs/release-notes/v12/validate-required-plugins"
+ },
+ {
+  "from": "/docs/new-features/v12/virtual-column-as-report-parameter",
+  "to": "/docs/release-notes/v12/virtual-column-as-report-parameter"
+ },
+ {
+  "from": "/docs/new-features/v13/account-info-customization",
+  "to": "/docs/release-notes/v13/account-info-customization"
+ },
+ {
+  "from": "/docs/new-features/v13/accounting-schema-valid-range",
+  "to": "/docs/release-notes/v13/accounting-schema-valid-range"
+ },
+ {
+  "from": "/docs/new-features/v13/adding-ability-to-copy-bom-to-copy-product-process",
+  "to": "/docs/release-notes/v13/adding-ability-to-copy-bom-to-copy-product-process"
+ },
+ {
+  "from": "/docs/new-features/v13/advanced-options-for-saved-queries",
+  "to": "/docs/release-notes/v13/advanced-options-for-saved-queries"
+ },
+ {
+  "from": "/docs/new-features/v13/attachment-list",
+  "to": "/docs/release-notes/v13/attachment-list"
+ },
+ {
+  "from": "/docs/new-features/v13/code-based-password-reset",
+  "to": "/docs/release-notes/v13/code-based-password-reset"
+ },
+ {
+  "from": "/docs/new-features/v13/custom-key-of-document-sequence",
+  "to": "/docs/release-notes/v13/custom-key-of-document-sequence"
+ },
+ {
+  "from": "/docs/new-features/v13/displaysql-and-display-identifier-in-table-validation",
+  "to": "/docs/release-notes/v13/displaysql-and-display-identifier-in-table-validation"
+ },
+ {
+  "from": "/docs/new-features/v13/extensible-report-content-generation",
+  "to": "/docs/release-notes/v13/extensible-report-content-generation"
+ },
+ {
+  "from": "/docs/new-features/v13/form-customization",
+  "to": "/docs/release-notes/v13/form-customization"
+ },
+ {
+  "from": "/docs/new-features/v13/new-accounting-dimensions",
+  "to": "/docs/release-notes/v13/new-accounting-dimensions"
+ },
+ {
+  "from": "/docs/new-features/v13/override-workflow-responsible",
+  "to": "/docs/release-notes/v13/override-workflow-responsible"
+ },
+ {
+  "from": "/docs/new-features/v13/read-access-to-tables-not-in-role-table-access-list",
+  "to": "/docs/release-notes/v13/read-access-to-tables-not-in-role-table-access-list"
+ },
+ {
+  "from": "/docs/new-features/v13/record-attributes-for-decluttering-configuration",
+  "to": "/docs/release-notes/v13/record-attributes-for-decluttering-configuration"
+ },
+ {
+  "from": "/docs/new-features/v13/storage-validator-osgi-service",
+  "to": "/docs/release-notes/v13/storage-validator-osgi-service"
+ },
+ {
+  "from": "/docs/new-features/v13/uom-qtyentered-physical-inventory",
+  "to": "/docs/release-notes/v13/uom-qtyentered-physical-inventory"
+ },
+ {
+  "from": "/docs/new-features/v13/weditor-dynamic-display-service",
+  "to": "/docs/release-notes/v13/weditor-dynamic-display-service"
+ },
+ {
+  "from": "/docs/new-features/v14/BPartner-Account-Column-in-Statement-of-Account",
+  "to": "/docs/release-notes/v14/BPartner-Account-Column-in-Statement-of-Account"
+ },
+ {
+  "from": "/docs/new-features/v14/accounting-plugin",
+  "to": "/docs/release-notes/v14/accounting-plugin"
+ },
+ {
+  "from": "/docs/new-features/v14/ckeditor-allow-overrideconfig-files-in-plugin",
+  "to": "/docs/release-notes/v14/ckeditor-allow-overrideconfig-files-in-plugin"
+ },
+ {
+  "from": "/docs/new-features/v14/customization-email-at-server-start",
+  "to": "/docs/release-notes/v14/customization-email-at-server-start"
+ },
+ {
+  "from": "/docs/new-features/v14/default-view-detail-tabs",
+  "to": "/docs/release-notes/v14/default-view-detail-tabs"
+ },
+ {
+  "from": "/docs/new-features/v14/extension-management",
+  "to": "/docs/release-notes/v14/extension-management"
+ },
+ {
+  "from": "/docs/new-features/v14/opportunities-sales-pipelines",
+  "to": "/docs/release-notes/v14/opportunities-sales-pipelines"
+ },
+ {
+  "from": "/docs/new-features/v14/redis-distributed-cache",
+  "to": "/docs/release-notes/v14/redis-distributed-cache"
+ },
+ {
+  "from": "/docs/new-features/v14/reusable-session-for-scheduler",
+  "to": "/docs/release-notes/v14/reusable-session-for-scheduler"
+ },
+ {
+  "from": "/docs/new-features/v14/soap-web-services-plugin",
+  "to": "/docs/release-notes/v14/soap-web-services-plugin"
+ },
+ {
+  "from": "/docs/new-features/v2.0/chart-fields",
+  "to": "/docs/release-notes/v2.0/chart-fields"
+ },
+ {
+  "from": "/docs/new-features/v2.0/combinations-without-org",
+  "to": "/docs/release-notes/v2.0/combinations-without-org"
+ },
+ {
+  "from": "/docs/new-features/v2.0/crm",
+  "to": "/docs/release-notes/v2.0/crm"
+ },
+ {
+  "from": "/docs/new-features/v2.0/dashboard-chart",
+  "to": "/docs/release-notes/v2.0/dashboard-chart"
+ },
+ {
+  "from": "/docs/new-features/v2.0/dashboard-role-access",
+  "to": "/docs/release-notes/v2.0/dashboard-role-access"
+ },
+ {
+  "from": "/docs/new-features/v2.0/db-objects-in-dictionary",
+  "to": "/docs/release-notes/v2.0/db-objects-in-dictionary"
+ },
+ {
+  "from": "/docs/new-features/v2.0/email-jasper-reports",
+  "to": "/docs/release-notes/v2.0/email-jasper-reports"
+ },
+ {
+  "from": "/docs/new-features/v2.0/estimated-landed-cost",
+  "to": "/docs/release-notes/v2.0/estimated-landed-cost"
+ },
+ {
+  "from": "/docs/new-features/v2.0/find-window-improvements",
+  "to": "/docs/release-notes/v2.0/find-window-improvements"
+ },
+ {
+  "from": "/docs/new-features/v2.0/improve-asi-fifo",
+  "to": "/docs/release-notes/v2.0/improve-asi-fifo"
+ },
+ {
+  "from": "/docs/new-features/v2.0/maintenance-mode",
+  "to": "/docs/release-notes/v2.0/maintenance-mode"
+ },
+ {
+  "from": "/docs/new-features/v2.0/multiple-browser-tab",
+  "to": "/docs/release-notes/v2.0/multiple-browser-tab"
+ },
+ {
+  "from": "/docs/new-features/v2.0/multiple-delete-improvement",
+  "to": "/docs/release-notes/v2.0/multiple-delete-improvement"
+ },
+ {
+  "from": "/docs/new-features/v2.0/register-browser-information",
+  "to": "/docs/release-notes/v2.0/register-browser-information"
+ },
+ {
+  "from": "/docs/new-features/v2.0/set-focus-on-field",
+  "to": "/docs/release-notes/v2.0/set-focus-on-field"
+ },
+ {
+  "from": "/docs/new-features/v2.0/tab-name-improvements",
+  "to": "/docs/release-notes/v2.0/tab-name-improvements"
+ },
+ {
+  "from": "/docs/new-features/v2.0/user-configurable-dashboard",
+  "to": "/docs/release-notes/v2.0/user-configurable-dashboard"
+ },
+ {
+  "from": "/docs/new-features/v2.0/validate-email-format",
+  "to": "/docs/release-notes/v2.0/validate-email-format"
+ },
+ {
+  "from": "/docs/new-features/v2.1/account-kind",
+  "to": "/docs/release-notes/v2.1/account-kind"
+ },
+ {
+  "from": "/docs/new-features/v2.1/ask-input-within-process",
+  "to": "/docs/release-notes/v2.1/ask-input-within-process"
+ },
+ {
+  "from": "/docs/new-features/v2.1/callout-on-navigate",
+  "to": "/docs/release-notes/v2.1/callout-on-navigate"
+ },
+ {
+  "from": "/docs/new-features/v2.1/close-all-other-windows",
+  "to": "/docs/release-notes/v2.1/close-all-other-windows"
+ },
+ {
+  "from": "/docs/new-features/v2.1/configurable-info-on-login-window",
+  "to": "/docs/release-notes/v2.1/configurable-info-on-login-window"
+ },
+ {
+  "from": "/docs/new-features/v2.1/configurable-jasper-plugin",
+  "to": "/docs/release-notes/v2.1/configurable-jasper-plugin"
+ },
+ {
+  "from": "/docs/new-features/v2.1/configurable-status-line",
+  "to": "/docs/release-notes/v2.1/configurable-status-line"
+ },
+ {
+  "from": "/docs/new-features/v2.1/configurable-timeout-session",
+  "to": "/docs/release-notes/v2.1/configurable-timeout-session"
+ },
+ {
+  "from": "/docs/new-features/v2.1/country-group",
+  "to": "/docs/release-notes/v2.1/country-group"
+ },
+ {
+  "from": "/docs/new-features/v2.1/create-fields-improvement",
+  "to": "/docs/release-notes/v2.1/create-fields-improvement"
+ },
+ {
+  "from": "/docs/new-features/v2.1/custom-homepage",
+  "to": "/docs/release-notes/v2.1/custom-homepage"
+ },
+ {
+  "from": "/docs/new-features/v2.1/debian-installer",
+  "to": "/docs/release-notes/v2.1/debian-installer"
+ },
+ {
+  "from": "/docs/new-features/v2.1/document-search-on-menu-lookup",
+  "to": "/docs/release-notes/v2.1/document-search-on-menu-lookup"
+ },
+ {
+  "from": "/docs/new-features/v2.1/ease-initial-client-setup",
+  "to": "/docs/release-notes/v2.1/ease-initial-client-setup"
+ },
+ {
+  "from": "/docs/new-features/v2.1/email-improvements",
+  "to": "/docs/release-notes/v2.1/email-improvements"
+ },
+ {
+  "from": "/docs/new-features/v2.1/implement-document-action-for-production-document",
+  "to": "/docs/release-notes/v2.1/implement-document-action-for-production-document"
+ },
+ {
+  "from": "/docs/new-features/v2.1/import-csv-process",
+  "to": "/docs/release-notes/v2.1/import-csv-process"
+ },
+ {
+  "from": "/docs/new-features/v2.1/import-template",
+  "to": "/docs/release-notes/v2.1/import-template"
+ },
+ {
+  "from": "/docs/new-features/v2.1/improve-accounting-adjustment-periods",
+  "to": "/docs/release-notes/v2.1/improve-accounting-adjustment-periods"
+ },
+ {
+  "from": "/docs/new-features/v2.1/info-window-process",
+  "to": "/docs/release-notes/v2.1/info-window-process"
+ },
+ {
+  "from": "/docs/new-features/v2.1/infowindow-improvements",
+  "to": "/docs/release-notes/v2.1/infowindow-improvements"
+ },
+ {
+  "from": "/docs/new-features/v2.1/invoice-not-realized-gainloss-fixes",
+  "to": "/docs/release-notes/v2.1/invoice-not-realized-gainloss-fixes"
+ },
+ {
+  "from": "/docs/new-features/v2.1/last-run-and-saved-parameters",
+  "to": "/docs/release-notes/v2.1/last-run-and-saved-parameters"
+ },
+ {
+  "from": "/docs/new-features/v2.1/mail-signature-and-images",
+  "to": "/docs/release-notes/v2.1/mail-signature-and-images"
+ },
+ {
+  "from": "/docs/new-features/v2.1/manually-selecting-attribute-set-instance",
+  "to": "/docs/release-notes/v2.1/manually-selecting-attribute-set-instance"
+ },
+ {
+  "from": "/docs/new-features/v2.1/min-amount-for-create-invoices",
+  "to": "/docs/release-notes/v2.1/min-amount-for-create-invoices"
+ },
+ {
+  "from": "/docs/new-features/v2.1/model-cascade-delete",
+  "to": "/docs/release-notes/v2.1/model-cascade-delete"
+ },
+ {
+  "from": "/docs/new-features/v2.1/monitor-information-about-sessions",
+  "to": "/docs/release-notes/v2.1/monitor-information-about-sessions"
+ },
+ {
+  "from": "/docs/new-features/v2.1/osgi-factory-for-bankstatementmatcher",
+  "to": "/docs/release-notes/v2.1/osgi-factory-for-bankstatementmatcher"
+ },
+ {
+  "from": "/docs/new-features/v2.1/osgi-factory-for-replenishment",
+  "to": "/docs/release-notes/v2.1/osgi-factory-for-replenishment"
+ },
+ {
+  "from": "/docs/new-features/v2.1/parent-composite-keys",
+  "to": "/docs/release-notes/v2.1/parent-composite-keys"
+ },
+ {
+  "from": "/docs/new-features/v2.1/payment-selection-improvements",
+  "to": "/docs/release-notes/v2.1/payment-selection-improvements"
+ },
+ {
+  "from": "/docs/new-features/v2.1/quick-info-widget",
+  "to": "/docs/release-notes/v2.1/quick-info-widget"
+ },
+ {
+  "from": "/docs/new-features/v2.1/recurring-run-automation",
+  "to": "/docs/release-notes/v2.1/recurring-run-automation"
+ },
+ {
+  "from": "/docs/new-features/v2.1/restrict-email-to-single-address",
+  "to": "/docs/release-notes/v2.1/restrict-email-to-single-address"
+ },
+ {
+  "from": "/docs/new-features/v2.1/run-report-as-job",
+  "to": "/docs/release-notes/v2.1/run-report-as-job"
+ },
+ {
+  "from": "/docs/new-features/v2.1/run-reports-in-the-scheduler-using-context-variables-for-dates",
+  "to": "/docs/release-notes/v2.1/run-reports-in-the-scheduler-using-context-variables-for-dates"
+ },
+ {
+  "from": "/docs/new-features/v2.1/save-preferred-detail-size",
+  "to": "/docs/release-notes/v2.1/save-preferred-detail-size"
+ },
+ {
+  "from": "/docs/new-features/v2.1/shortcuts-to-ease-keyboard-entry",
+  "to": "/docs/release-notes/v2.1/shortcuts-to-ease-keyboard-entry"
+ },
+ {
+  "from": "/docs/new-features/v2.1/tab-selection-when-exporting-csv",
+  "to": "/docs/release-notes/v2.1/tab-selection-when-exporting-csv"
+ },
+ {
+  "from": "/docs/new-features/v2.1/toolbar-and-tab-button",
+  "to": "/docs/release-notes/v2.1/toolbar-and-tab-button"
+ },
+ {
+  "from": "/docs/new-features/v2.1/tree-driven-by-search-key",
+  "to": "/docs/release-notes/v2.1/tree-driven-by-search-key"
+ },
+ {
+  "from": "/docs/new-features/v2.1/unaccented-menu-search",
+  "to": "/docs/release-notes/v2.1/unaccented-menu-search"
+ },
+ {
+  "from": "/docs/new-features/v2.1/zoom-from-recordid-in-html-report",
+  "to": "/docs/release-notes/v2.1/zoom-from-recordid-in-html-report"
+ },
+ {
+  "from": "/docs/new-features/v2.1/zoom-from-url",
+  "to": "/docs/release-notes/v2.1/zoom-from-url"
+ },
+ {
+  "from": "/docs/new-features/v3.0/configuration-for-dont-get-page-count-infopanel",
+  "to": "/docs/release-notes/v3.0/configuration-for-dont-get-page-count-infopanel"
+ },
+ {
+  "from": "/docs/new-features/v3.0/create-record-from-info-window",
+  "to": "/docs/release-notes/v3.0/create-record-from-info-window"
+ },
+ {
+  "from": "/docs/new-features/v3.0/csv-importer-single-transaction",
+  "to": "/docs/release-notes/v3.0/csv-importer-single-transaction"
+ },
+ {
+  "from": "/docs/new-features/v3.0/exclude-locators-for-demand-operations",
+  "to": "/docs/release-notes/v3.0/exclude-locators-for-demand-operations"
+ },
+ {
+  "from": "/docs/new-features/v3.0/improvement-detail-panel-toolbar",
+  "to": "/docs/release-notes/v3.0/improvement-detail-panel-toolbar"
+ },
+ {
+  "from": "/docs/new-features/v3.0/improvement-double-click-in-grid-view",
+  "to": "/docs/release-notes/v3.0/improvement-double-click-in-grid-view"
+ },
+ {
+  "from": "/docs/new-features/v3.0/info-windows-have-their-own-icon",
+  "to": "/docs/release-notes/v3.0/info-windows-have-their-own-icon"
+ },
+ {
+  "from": "/docs/new-features/v3.0/platform-upgrade",
+  "to": "/docs/release-notes/v3.0/platform-upgrade"
+ },
+ {
+  "from": "/docs/new-features/v3.0/print-format-and-report-type-on-process-dialog",
+  "to": "/docs/release-notes/v3.0/print-format-and-report-type-on-process-dialog"
+ },
+ {
+  "from": "/docs/new-features/v3.0/remember-selection-when-switch-page-info",
+  "to": "/docs/release-notes/v3.0/remember-selection-when-switch-page-info"
+ },
+ {
+  "from": "/docs/new-features/v3.0/tree-on-any-table",
+  "to": "/docs/release-notes/v3.0/tree-on-any-table"
+ },
+ {
+  "from": "/docs/new-features/v3.0/user-preferences",
+  "to": "/docs/release-notes/v3.0/user-preferences"
+ },
+ {
+  "from": "/docs/new-features/v4.1/configurable-activities-dashboard",
+  "to": "/docs/release-notes/v4.1/configurable-activities-dashboard"
+ },
+ {
+  "from": "/docs/new-features/v4.1/monitor-trx",
+  "to": "/docs/release-notes/v4.1/monitor-trx"
+ },
+ {
+  "from": "/docs/new-features/v4.1/styles-on-fields",
+  "to": "/docs/release-notes/v4.1/styles-on-fields"
+ },
+ {
+  "from": "/docs/new-features/v5.1/automatic-external-pack-in",
+  "to": "/docs/release-notes/v5.1/automatic-external-pack-in"
+ },
+ {
+  "from": "/docs/new-features/v5.1/detailed-zoom-across-where-record-is-used",
+  "to": "/docs/release-notes/v5.1/detailed-zoom-across-where-record-is-used"
+ },
+ {
+  "from": "/docs/new-features/v5.1/find-similar-to",
+  "to": "/docs/release-notes/v5.1/find-similar-to"
+ },
+ {
+  "from": "/docs/new-features/v5.1/improved-tab-usability",
+  "to": "/docs/release-notes/v5.1/improved-tab-usability"
+ },
+ {
+  "from": "/docs/new-features/v5.1/mobile-compatibility",
+  "to": "/docs/release-notes/v5.1/mobile-compatibility"
+ },
+ {
+  "from": "/docs/new-features/v5.1/platform-upgrade",
+  "to": "/docs/release-notes/v5.1/platform-upgrade"
+ },
+ {
+  "from": "/docs/new-features/v5.1/postit-toolbar-button",
+  "to": "/docs/release-notes/v5.1/postit-toolbar-button"
+ },
+ {
+  "from": "/docs/new-features/v5.1/show-permalink-url-in-record-info-dialog",
+  "to": "/docs/release-notes/v5.1/show-permalink-url-in-record-info-dialog"
+ },
+ {
+  "from": "/docs/new-features/v6.2/copy-or-move-tenant",
+  "to": "/docs/release-notes/v6.2/copy-or-move-tenant"
+ },
+ {
+  "from": "/docs/new-features/v6.2/disallow-re-running-a-process-that-is-already-being-executed",
+  "to": "/docs/release-notes/v6.2/disallow-re-running-a-process-that-is-already-being-executed"
+ },
+ {
+  "from": "/docs/new-features/v6.2/extend-jasper-engine",
+  "to": "/docs/release-notes/v6.2/extend-jasper-engine"
+ },
+ {
+  "from": "/docs/new-features/v6.2/font-icons",
+  "to": "/docs/release-notes/v6.2/font-icons"
+ },
+ {
+  "from": "/docs/new-features/v6.2/force-backgroundforeground-process",
+  "to": "/docs/release-notes/v6.2/force-backgroundforeground-process"
+ },
+ {
+  "from": "/docs/new-features/v6.2/inline-html-field",
+  "to": "/docs/release-notes/v6.2/inline-html-field"
+ },
+ {
+  "from": "/docs/new-features/v6.2/manage-plugins-on-webui",
+  "to": "/docs/release-notes/v6.2/manage-plugins-on-webui"
+ },
+ {
+  "from": "/docs/new-features/v6.2/migrate-an-id-or-uuid",
+  "to": "/docs/release-notes/v6.2/migrate-an-id-or-uuid"
+ },
+ {
+  "from": "/docs/new-features/v6.2/on-start-schedule",
+  "to": "/docs/release-notes/v6.2/on-start-schedule"
+ },
+ {
+  "from": "/docs/new-features/v6.2/placeholders",
+  "to": "/docs/release-notes/v6.2/placeholders"
+ },
+ {
+  "from": "/docs/new-features/v6.2/platform-upgrade",
+  "to": "/docs/release-notes/v6.2/platform-upgrade"
+ },
+ {
+  "from": "/docs/new-features/v6.2/reporting-from-read-only-replica",
+  "to": "/docs/release-notes/v6.2/reporting-from-read-only-replica"
+ },
+ {
+  "from": "/docs/new-features/v6.2/revenue-recognition",
+  "to": "/docs/release-notes/v6.2/revenue-recognition"
+ },
+ {
+  "from": "/docs/new-features/v6.2/role-panel-modified",
+  "to": "/docs/release-notes/v6.2/role-panel-modified"
+ },
+ {
+  "from": "/docs/new-features/v6.2/sysconfig-without-cache",
+  "to": "/docs/release-notes/v6.2/sysconfig-without-cache"
+ },
+ {
+  "from": "/docs/new-features/v6.2/virtual-ui-column",
+  "to": "/docs/release-notes/v6.2/virtual-ui-column"
+ },
+ {
+  "from": "/docs/new-features/v6.2/warning-on-password-expiration",
+  "to": "/docs/release-notes/v6.2/warning-on-password-expiration"
+ },
+ {
+  "from": "/docs/new-features/v7.1/display-logic-for-print-format-item-in-pdf",
+  "to": "/docs/release-notes/v7.1/display-logic-for-print-format-item-in-pdf"
+ },
+ {
+  "from": "/docs/new-features/v7.1/excel-master-detail-export",
+  "to": "/docs/release-notes/v7.1/excel-master-detail-export"
+ },
+ {
+  "from": "/docs/new-features/v7.1/force-grid-mode-when-find-panel-closes",
+  "to": "/docs/release-notes/v7.1/force-grid-mode-when-find-panel-closes"
+ },
+ {
+  "from": "/docs/new-features/v7.1/implement-notation-sql-for-display-logic",
+  "to": "/docs/release-notes/v7.1/implement-notation-sql-for-display-logic"
+ },
+ {
+  "from": "/docs/new-features/v7.1/improve-toolbar-make-it-more-configurable",
+  "to": "/docs/release-notes/v7.1/improve-toolbar-make-it-more-configurable"
+ },
+ {
+  "from": "/docs/new-features/v7.1/improve-toolbar-make-it-more-configurable-and-extend-it",
+  "to": "/docs/release-notes/v7.1/improve-toolbar-make-it-more-configurable-and-extend-it"
+ },
+ {
+  "from": "/docs/new-features/v7.1/migrate-storage-provider",
+  "to": "/docs/release-notes/v7.1/migrate-storage-provider"
+ },
+ {
+  "from": "/docs/new-features/v7.1/multi-select-tablesearchlist",
+  "to": "/docs/release-notes/v7.1/multi-select-tablesearchlist"
+ },
+ {
+  "from": "/docs/new-features/v7.1/share-saved-queries-with-other-users",
+  "to": "/docs/release-notes/v7.1/share-saved-queries-with-other-users"
+ },
+ {
+  "from": "/docs/new-features/v7.1/show-report-parameters-in-excel-and-html",
+  "to": "/docs/release-notes/v7.1/show-report-parameters-in-excel-and-html"
+ },
+ {
+  "from": "/docs/new-features/v7.1/sql-searches-in-windows-for-advanced-users",
+  "to": "/docs/release-notes/v7.1/sql-searches-in-windows-for-advanced-users"
+ },
+ {
+  "from": "/docs/new-features/v7.1/time-line-record-info",
+  "to": "/docs/release-notes/v7.1/time-line-record-info"
+ },
+ {
+  "from": "/docs/new-features/v7.1/virtual-search-column",
+  "to": "/docs/release-notes/v7.1/virtual-search-column"
+ },
+ {
+  "from": "/docs/new-features/v8.2/add-gridform-toggle-button-to-detail-pane",
+  "to": "/docs/release-notes/v8.2/add-gridform-toggle-button-to-detail-pane"
+ },
+ {
+  "from": "/docs/new-features/v8.2/allowing-all-reference-type-on-attribute",
+  "to": "/docs/release-notes/v8.2/allowing-all-reference-type-on-attribute"
+ },
+ {
+  "from": "/docs/new-features/v8.2/configure-mfa",
+  "to": "/docs/release-notes/v8.2/configure-mfa"
+ },
+ {
+  "from": "/docs/new-features/v8.2/create-window-tab-field-from-table",
+  "to": "/docs/release-notes/v8.2/create-window-tab-field-from-table"
+ },
+ {
+  "from": "/docs/new-features/v8.2/createcomplete-table",
+  "to": "/docs/release-notes/v8.2/createcomplete-table"
+ },
+ {
+  "from": "/docs/new-features/v8.2/dashboard-report-use-sql-and-range-parameters",
+  "to": "/docs/release-notes/v8.2/dashboard-report-use-sql-and-range-parameters"
+ },
+ {
+  "from": "/docs/new-features/v8.2/defaults-for-fields-in-send-mail-dialog",
+  "to": "/docs/release-notes/v8.2/defaults-for-fields-in-send-mail-dialog"
+ },
+ {
+  "from": "/docs/new-features/v8.2/drop-rename-db-objects",
+  "to": "/docs/release-notes/v8.2/drop-rename-db-objects"
+ },
+ {
+  "from": "/docs/new-features/v8.2/enhanced-vendor-specific-price-list-generation",
+  "to": "/docs/release-notes/v8.2/enhanced-vendor-specific-price-list-generation"
+ },
+ {
+  "from": "/docs/new-features/v8.2/event-status-line",
+  "to": "/docs/release-notes/v8.2/event-status-line"
+ },
+ {
+  "from": "/docs/new-features/v8.2/financial-report-exclude-all-adjustment-periods",
+  "to": "/docs/release-notes/v8.2/financial-report-exclude-all-adjustment-periods"
+ },
+ {
+  "from": "/docs/new-features/v8.2/find-window-extended-controls",
+  "to": "/docs/release-notes/v8.2/find-window-extended-controls"
+ },
+ {
+  "from": "/docs/new-features/v8.2/how-to-configure-the-toolbar",
+  "to": "/docs/release-notes/v8.2/how-to-configure-the-toolbar"
+ },
+ {
+  "from": "/docs/new-features/v8.2/implement-oauth2-for-email-authentication",
+  "to": "/docs/release-notes/v8.2/implement-oauth2-for-email-authentication"
+ },
+ {
+  "from": "/docs/new-features/v8.2/info-window-customisation",
+  "to": "/docs/release-notes/v8.2/info-window-customisation"
+ },
+ {
+  "from": "/docs/new-features/v8.2/inject-context-variables-from-menu",
+  "to": "/docs/release-notes/v8.2/inject-context-variables-from-menu"
+ },
+ {
+  "from": "/docs/new-features/v8.2/lightweight-theme-customization",
+  "to": "/docs/release-notes/v8.2/lightweight-theme-customization"
+ },
+ {
+  "from": "/docs/new-features/v8.2/operating-system-variables-in-context",
+  "to": "/docs/release-notes/v8.2/operating-system-variables-in-context"
+ },
+ {
+  "from": "/docs/new-features/v8.2/override-virtual-column-definition-in-field",
+  "to": "/docs/release-notes/v8.2/override-virtual-column-definition-in-field"
+ },
+ {
+  "from": "/docs/new-features/v8.2/period-control-management",
+  "to": "/docs/release-notes/v8.2/period-control-management"
+ },
+ {
+  "from": "/docs/new-features/v8.2/print-format-item-script",
+  "to": "/docs/release-notes/v8.2/print-format-item-script"
+ },
+ {
+  "from": "/docs/new-features/v8.2/protect-passwords-on-properties",
+  "to": "/docs/release-notes/v8.2/protect-passwords-on-properties"
+ },
+ {
+  "from": "/docs/new-features/v8.2/quick-form-fast-data-entry-form-configurable-on-any-window-tab",
+  "to": "/docs/release-notes/v8.2/quick-form-fast-data-entry-form-configurable-on-any-window-tab"
+ },
+ {
+  "from": "/docs/new-features/v8.2/radio-button",
+  "to": "/docs/release-notes/v8.2/radio-button"
+ },
+ {
+  "from": "/docs/new-features/v8.2/reverse-sign-in-financial-report-cell",
+  "to": "/docs/release-notes/v8.2/reverse-sign-in-financial-report-cell"
+ },
+ {
+  "from": "/docs/new-features/v8.2/run-script-with-2pack",
+  "to": "/docs/release-notes/v8.2/run-script-with-2pack"
+ },
+ {
+  "from": "/docs/new-features/v8.2/set-default-contactuser-in-documents",
+  "to": "/docs/release-notes/v8.2/set-default-contactuser-in-documents"
+ },
+ {
+  "from": "/docs/new-features/v8.2/show-products-not-on-price-list",
+  "to": "/docs/release-notes/v8.2/show-products-not-on-price-list"
+ },
+ {
+  "from": "/docs/new-features/v8.2/starting-other-workflows-within-a-workflow",
+  "to": "/docs/release-notes/v8.2/starting-other-workflows-within-a-workflow"
+ },
+ {
+  "from": "/docs/new-features/v8.2/suspend-workflow-until-commit",
+  "to": "/docs/release-notes/v8.2/suspend-workflow-until-commit"
+ },
+ {
+  "from": "/docs/new-features/v9/add-access-tab-document-status-activity",
+  "to": "/docs/release-notes/v9/add-access-tab-document-status-activity"
+ },
+ {
+  "from": "/docs/new-features/v9/add-links-in-broadcast-messages",
+  "to": "/docs/release-notes/v9/add-links-in-broadcast-messages"
+ },
+ {
+  "from": "/docs/new-features/v9/admessageadelement-resource-bundle-for-jasper-report",
+  "to": "/docs/release-notes/v9/admessageadelement-resource-bundle-for-jasper-report"
+ },
+ {
+  "from": "/docs/new-features/v9/advanced-search-enhancements",
+  "to": "/docs/release-notes/v9/advanced-search-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v9/allowing-product-without-pricelist",
+  "to": "/docs/release-notes/v9/allowing-product-without-pricelist"
+ },
+ {
+  "from": "/docs/new-features/v9/annotated-process-parameters",
+  "to": "/docs/release-notes/v9/annotated-process-parameters"
+ },
+ {
+  "from": "/docs/new-features/v9/auto-produce-for-mfg-light",
+  "to": "/docs/release-notes/v9/auto-produce-for-mfg-light"
+ },
+ {
+  "from": "/docs/new-features/v9/boolean-logic-expression-enhancements",
+  "to": "/docs/release-notes/v9/boolean-logic-expression-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v9/cloud-upload-interface-for-report-viewer-and-scheduler",
+  "to": "/docs/release-notes/v9/cloud-upload-interface-for-report-viewer-and-scheduler"
+ },
+ {
+  "from": "/docs/new-features/v9/confirm-panel-with-checkbox",
+  "to": "/docs/release-notes/v9/confirm-panel-with-checkbox"
+ },
+ {
+  "from": "/docs/new-features/v9/custom-commission-calculations",
+  "to": "/docs/release-notes/v9/custom-commission-calculations"
+ },
+ {
+  "from": "/docs/new-features/v9/custom-query-clause-for-report-parameter",
+  "to": "/docs/release-notes/v9/custom-query-clause-for-report-parameter"
+ },
+ {
+  "from": "/docs/new-features/v9/customstariffnumber-in-products-and-enhanced-import",
+  "to": "/docs/release-notes/v9/customstariffnumber-in-products-and-enhanced-import"
+ },
+ {
+  "from": "/docs/new-features/v9/desktop-tab-enhancements",
+  "to": "/docs/release-notes/v9/desktop-tab-enhancements"
+ },
+ {
+  "from": "/docs/new-features/v9/enable-save-column-width-wlistbox",
+  "to": "/docs/release-notes/v9/enable-save-column-width-wlistbox"
+ },
+ {
+  "from": "/docs/new-features/v9/excel-file-preview-at-report-and-attachment-viewer",
+  "to": "/docs/release-notes/v9/excel-file-preview-at-report-and-attachment-viewer"
+ },
+ {
+  "from": "/docs/new-features/v9/favorite-dashboard",
+  "to": "/docs/release-notes/v9/favorite-dashboard"
+ },
+ {
+  "from": "/docs/new-features/v9/form-sql-query",
+  "to": "/docs/release-notes/v9/form-sql-query"
+ },
+ {
+  "from": "/docs/new-features/v9/grid-view-auto-hide-empty-column",
+  "to": "/docs/release-notes/v9/grid-view-auto-hide-empty-column"
+ },
+ {
+  "from": "/docs/new-features/v9/how-to-using-print-format-item-scripts-in-reports",
+  "to": "/docs/release-notes/v9/how-to-using-print-format-item-scripts-in-reports"
+ },
+ {
+  "from": "/docs/new-features/v9/improve-form-sql-process",
+  "to": "/docs/release-notes/v9/improve-form-sql-process"
+ },
+ {
+  "from": "/docs/new-features/v9/info-window-auto-hide-empty-column",
+  "to": "/docs/release-notes/v9/info-window-auto-hide-empty-column"
+ },
+ {
+  "from": "/docs/new-features/v9/info-window-select-deselect-all",
+  "to": "/docs/release-notes/v9/info-window-select-deselect-all"
+ },
+ {
+  "from": "/docs/new-features/v9/iquickentry-osgi-service",
+  "to": "/docs/release-notes/v9/iquickentry-osgi-service"
+ },
+ {
+  "from": "/docs/new-features/v9/jasper-report-deployment-refactoring-and-improvement",
+  "to": "/docs/release-notes/v9/jasper-report-deployment-refactoring-and-improvement"
+ },
+ {
+  "from": "/docs/new-features/v9/json-request-and-response-support-for-web-services",
+  "to": "/docs/release-notes/v9/json-request-and-response-support-for-web-services"
+ },
+ {
+  "from": "/docs/new-features/v9/media-view-interface-for-report-and-attachment-viewer",
+  "to": "/docs/release-notes/v9/media-view-interface-for-report-and-attachment-viewer"
+ },
+ {
+  "from": "/docs/new-features/v9/messages-at-client-level",
+  "to": "/docs/release-notes/v9/messages-at-client-level"
+ },
+ {
+  "from": "/docs/new-features/v9/multiple-bom-support-for-mfg-light",
+  "to": "/docs/release-notes/v9/multiple-bom-support-for-mfg-light"
+ },
+ {
+  "from": "/docs/new-features/v9/multiple-smtp-per-tenant",
+  "to": "/docs/release-notes/v9/multiple-smtp-per-tenant"
+ },
+ {
+  "from": "/docs/new-features/v9/organize-process-and-report-parameters-by-field-group",
+  "to": "/docs/release-notes/v9/organize-process-and-report-parameters-by-field-group"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-interface-to-create-custom-header-and-footer",
+  "to": "/docs/release-notes/v9/osgi-interface-to-create-custom-header-and-footer"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-column-callout-factory",
+  "to": "/docs/release-notes/v9/osgi-new-column-callout-factory"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-document-factory",
+  "to": "/docs/release-notes/v9/osgi-new-document-factory"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-event-handling-annotation",
+  "to": "/docs/release-notes/v9/osgi-new-event-handling-annotation"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-form-factory",
+  "to": "/docs/release-notes/v9/osgi-new-form-factory"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-mapped-by-name-factory",
+  "to": "/docs/release-notes/v9/osgi-new-mapped-by-name-factory"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-model-factory",
+  "to": "/docs/release-notes/v9/osgi-new-model-factory"
+ },
+ {
+  "from": "/docs/new-features/v9/osgi-new-process-factory",
+  "to": "/docs/release-notes/v9/osgi-new-process-factory"
+ },
+ {
+  "from": "/docs/new-features/v9/postgresql-default-to-native-dialect",
+  "to": "/docs/release-notes/v9/postgresql-default-to-native-dialect"
+ },
+ {
+  "from": "/docs/new-features/v9/print-format-editor",
+  "to": "/docs/release-notes/v9/print-format-editor"
+ },
+ {
+  "from": "/docs/new-features/v9/record-info-copy-to-clipboard-buttons",
+  "to": "/docs/release-notes/v9/record-info-copy-to-clipboard-buttons"
+ },
+ {
+  "from": "/docs/new-features/v9/replace-create-from-form-with-info-window-form",
+  "to": "/docs/release-notes/v9/replace-create-from-form-with-info-window-form"
+ },
+ {
+  "from": "/docs/new-features/v9/reset-accounting-documents-also-without-postings",
+  "to": "/docs/release-notes/v9/reset-accounting-documents-also-without-postings"
+ },
+ {
+  "from": "/docs/new-features/v9/reverse-prepared-payment-process",
+  "to": "/docs/release-notes/v9/reverse-prepared-payment-process"
+ },
+ {
+  "from": "/docs/new-features/v9/save-document-to-attachment",
+  "to": "/docs/release-notes/v9/save-document-to-attachment"
+ },
+ {
+  "from": "/docs/new-features/v9/shipment-on-availability-when-products-available",
+  "to": "/docs/release-notes/v9/shipment-on-availability-when-products-available"
+ },
+ {
+  "from": "/docs/new-features/v9/specify-tenant-on-login",
+  "to": "/docs/release-notes/v9/specify-tenant-on-login"
+ },
+ {
+  "from": "/docs/new-features/v9/sql-workflow-condition",
+  "to": "/docs/release-notes/v9/sql-workflow-condition"
+ },
+ {
+  "from": "/docs/new-features/v9/storage-reservation-log",
+  "to": "/docs/release-notes/v9/storage-reservation-log"
+ },
+ {
+  "from": "/docs/new-features/v9/tenant-administrator-roles",
+  "to": "/docs/release-notes/v9/tenant-administrator-roles"
+ },
+ {
+  "from": "/docs/new-features/v9/use-idempiere-displayreference-type-in-jasper-report",
+  "to": "/docs/release-notes/v9/use-idempiere-displayreference-type-in-jasper-report"
+ },
+ {
+  "from": "/docs/new-features/v9/vendor-lead",
+  "to": "/docs/release-notes/v9/vendor-lead"
+ },
+ {
+  "from": "/docs/new-features/v9/virtual-column-lazy-loading",
+  "to": "/docs/release-notes/v9/virtual-column-lazy-loading"
+ },
+ {
+  "from": "/docs/new-features/v9/warehouse-on-inventory-move-to-filter-locators",
+  "to": "/docs/release-notes/v9/warehouse-on-inventory-move-to-filter-locators"
+ },
+ {
+  "from": "/docs/new-features/v9/wizard-chosen-multiple-selection-list-editor",
+  "to": "/docs/release-notes/v9/wizard-chosen-multiple-selection-list-editor"
+ }
+]

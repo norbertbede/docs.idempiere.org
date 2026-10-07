@@ -3,6 +3,9 @@
 
 const { themes: prismThemes } = require('prism-react-renderer');
 
+// Overridable so forks can publish a preview under a project path.
+const baseUrl = process.env.DOCS_BASE_URL ?? '/';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'iDempiere Open Source ERP',
@@ -10,10 +13,10 @@ const config = {
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://idempiere.github.io',
+  url: process.env.DOCS_URL ?? 'https://idempiere.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -50,12 +53,12 @@ const config = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/img/logo.png',
+            href: `${baseUrl}img/logo.png`,
           },
           {
             tagName: 'link',
             rel: 'manifest',
-            href: '/manifest.json',
+            href: `${baseUrl}manifest.json`,
           },
           {
             tagName: 'meta',

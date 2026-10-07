@@ -69,6 +69,17 @@ const config = {
       },
     ],
     './plugins/version-compare',
+    [
+      './plugins/docs-changelog',
+      {
+        releaseNotesPath: 'docs/new-features',
+        compareUrl: '/upgrade/compare',
+        tickets: {
+          pattern: 'IDEMPIERE-\\d+',
+          url: 'https://idempiere.atlassian.net/browse/',
+        },
+      },
+    ],
 ],
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -155,6 +166,11 @@ const config = {
                 label: 'Compare versions',
               },
             ],
+          },
+          {
+            to: '/changelog',
+            position: 'left',
+            label: 'Docs changelog',
           },
           // Right
           {

@@ -1,0 +1,63 @@
+name: Deploy fork preview
+
+# Publishes a preview of this branch to the fork's own GitHub Pages
+# (https://<owner>.github.io/<repo>/). Never runs in the idempiere org.
+
+on:
+  push:
+    branches:
+      - refactor/docs-ia
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-preview
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: github.repository_owner != 'idempiere'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+      - name: Build website
+        env:
+          DOCS_URL: https://${{ github.repository_owner }}.github.io
+          DOCS_BASE_URL: /${{ github.event.repository.name }}/
+        run: npm run build
+      # The upstream CNAME would make the fork claim the community domain.
+      - name: Remove CNAME
+        run: rm -f build/CNAME
+      # Raw <img>/<a> tags in the markdown use root paths that Docusaurus
+      # does not prefix with baseUrl. Rewrite them in the preview build only.
+      - name: Prefix raw root paths
+        env:
+          BASE: /${{ github.event.repository.name }}
+        run: |
+          find build -name '*.html' -print0 | xargs -0 sed -i -E \
+            "s#(src|href)=\"/(img|downloads)/#\1=\"${BASE}/\2/#g"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

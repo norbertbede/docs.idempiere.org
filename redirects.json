@@ -176,6 +176,10 @@
   "to": "/docs/develop/customize-the-ui/plugin-webui-themes"
  },
  {
+  "from": "/docs/basic-development/system-configurator",
+  "to": "/docs/develop/package-and-ship/system-configurator"
+ },
+ {
   "from": "/docs/basic-functional/business_partner",
   "to": "/docs/guide/business_partner"
  },
@@ -1226,6 +1230,10 @@
  {
   "from": "/docs/new-features/v13/code-based-password-reset",
   "to": "/docs/release-notes/v13/code-based-password-reset"
+ },
+ {
+  "from": "/docs/new-features/v13/configurable-keikai-editable",
+  "to": "/docs/release-notes/v13/configurable-keikai-editable"
  },
  {
   "from": "/docs/new-features/v13/custom-key-of-document-sequence",

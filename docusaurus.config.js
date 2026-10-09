@@ -72,7 +72,7 @@ const config = {
     [
       './plugins/docs-changelog',
       {
-        releaseNotesPath: 'docs/new-features',
+        releaseNotesPath: 'docs/release-notes',
         compareUrl: '/upgrade/compare',
         tickets: {
           pattern: 'IDEMPIERE-\\d+',
@@ -165,12 +165,11 @@ const config = {
                 to: '/upgrade/compare',
                 label: 'Compare versions',
               },
+              {
+                to: '/updates',
+                label: 'Docs changelog',
+              },
             ],
-          },
-          {
-            to: '/changelog',
-            position: 'left',
-            label: 'Docs changelog',
           },
           // Right
           {

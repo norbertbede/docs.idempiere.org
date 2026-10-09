@@ -83,18 +83,18 @@ We tested the documentation the way readers use it: by trying to answer real que
 
 | Persona | Questions | ✅ | 🟡 | ❌ | 🔀 |
 |---|---|---|---|---|---|
-| Consultant or end user | 15 | 1 | 9 | 5 | 0 |
+| Consultant or end user | 15 | 1 | 8 | 4 | 2 |
 | Sysadmin | 15 | 1 | 9 | 1 | 4 |
-| Plugin developer | 15 | 2 | 6 | 4 | 3 |
-| Integrator | 12 | 3 | 5 | 4 | 0 |
-| Frontend developer | 15 | 2 | 8 | 4 | 1 |
-| Evaluator | 12 | 1 | 7 | 3 | 1 |
-| AI agent | 6 | 3 | 1 | 1 | 1 |
-| **Total** | **90** | **13** | **45** | **22** | **10** |
+| Plugin developer | 15 | 2 | 9 | 3 | 1 |
+| Integrator | 12 | 1 | 7 | 2 | 2 |
+| Frontend developer | 15 | 4 | 7 | 3 | 1 |
+| Evaluator | 12 | 1 | 2 | 3 | 6 |
+| AI agent | 6 | 3 | 2 | 0 | 1 |
+| **Total** | **90** | **13** | **44** | **16** | **17** |
 
 Only 13 of 90 questions, 14%, get a clear answer where the reader looks first. Most answers exist somewhere but are hard to find, incomplete or contradicted by another page.
 
-The Sysadmin row was re-graded with the strict rubric from the `docs-persona-test` skill. The other rows come from the first run, which used looser grade definitions. Re-run them with the skill before comparing totals over time.
+All personas are graded with the strict rubric from the `docs-persona-test` skill (Sysadmin on 2026-09-29, the others on 2026-10-07 at 743e6abe1). The first run used looser grade definitions, so compare totals only from this baseline on. Grades per question, every grade change and its reason are in `control-checklist.md`.
 
 ### Findings by persona
 

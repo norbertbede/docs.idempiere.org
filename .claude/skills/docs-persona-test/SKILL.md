@@ -37,6 +37,8 @@ Apply the first row that matches, top to bottom.
 
 A hop is one click from the start tab's landing page: a card or a sidebar item. Following a link inside a page is also one hop.
 
+`docs/release-notes/` is shared by all personas. An answer found only there is 🟡 ("only in release notes"), not 🔀 ("another persona's tab").
+
 A question's grade changes only when the docs changed or the rubric row applies differently. A different opinion is not a reason.
 
 ## Reviewer brief

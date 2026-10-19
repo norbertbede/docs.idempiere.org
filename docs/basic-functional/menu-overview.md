@@ -1,5 +1,6 @@
 ---
 description: "A tour of the iDempiere demo system of the GardenWorld company and the ERP functions it covers."
+last_reviewed: "19.10.2026"
 sidebar_position: 15
 ---
 

@@ -6,6 +6,8 @@ sidebar_position: 10
 
 # Login - Access to the system
 The purpose of this page is to help you understand login concepts. As a result of reading this page, you should be able to log into iDempiere.
+
+This line was added by a test — it has an em dash.
 Navigation in iDempiere is one of the great benefits that it offers since its interface is very
 friendly, it allows configuration in multiple languages and when placing the mouse pointer
 on each of its icons or buttons, it clearly shows the name and/or role it plays. To enter the

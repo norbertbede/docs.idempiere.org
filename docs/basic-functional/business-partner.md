@@ -9,7 +9,7 @@ sidebar_position: 25
 ## Introduction
 Business Partner is the generic name for all the people/companies with a business
 relationship with your tenant/client: that includes, vendors, customers, employees
-and so on. Sometimes we need to configure groups, taxes and other specific
+and so on. Sometimes you need to configure groups, taxes and other specific
 properties for invoicing or to manage them properly, so please be sure that you
 understand the following capabilities for them
 
